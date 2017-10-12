@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.aftonbladet.iml" filepath="$PROJECT_DIR$/.idea/modules/com.aftonbladet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.aftonbladet_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.aftonbladet_main.iml" group="com.aftonbladet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.aftonbladet_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.aftonbladet_test.iml" group="com.aftonbladet" />
+    </modules>
+  </component>
+</project>
